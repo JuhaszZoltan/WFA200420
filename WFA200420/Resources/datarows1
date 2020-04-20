@@ -1,0 +1,29 @@
+TRICIKLI
+(0, 'piros'),
+(1, 'kék'),
+(0, 'zöld'),
+(0, 'kék'),
+(1, 'zöld'),
+(0, 'sárga'),
+(0, 'piros');
+
+KOLCSONZES
+('2019-05-02', 1, 1),
+('2019-05-03', 1, 2),
+('2019-05-03', 3, 4),
+('2019-05-03', 6, 5),
+('2019-05-04', 2, 3),
+('2019-05-04', 3, 4),
+('2019-05-04', 4, 5),
+('2019-05-05', 2, 1),
+('2019-05-05', 6, 2),
+('2019-05-05', 7, 3);
+
+PATKANY
+('Gut', 'házi patkány'),
+('Bear', 'házi patkány'),
+('Jerry', 'vándorpatkány'),
+('Spring', 'cricetomys'),
+('Snoopy', 'házi patkány'),
+('Graye', 'vándorpatkány'),
+('Antony', 'cricetomys');
